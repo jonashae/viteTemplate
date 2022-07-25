@@ -1,7 +1,7 @@
 <template>
   <div class="smallBox">
     <h2>Lorem Ipsum</h2>
-    <img src="src/assets/robbe.jpg" alt="robbe" />
+    <img src="src/assets/images/robbe.jpg" alt="robbe" />
     <p>
       <i>Lorem ipsum </i>is placeholder text <strong>commonly used</strong> in
       the graphic, print, and publishing
